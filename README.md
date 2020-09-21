@@ -8,18 +8,17 @@ This sample uses the commercial SAP product Service Ticket Intelligence. For det
 
 ## Requirements
 
-- [Service Ticket Intelligence](https://www.sap.com/products/service-ticket-intelligence.html) (commercial product)
-- [Postman API Development Environment](https://www.getpostman.com/)
+- [Service Ticket Intelligence](https://help.sap.com/stint) ([SAP AI Business Services](https://help.sap.com/aibus) and [SAP Cloud Platform](https://help.sap.com/viewer/product/CP/Cloud/en-US) commercial service) or a [Free Trial Account on SAP Cloud Platform](https://developers.sap.com/tutorials/hcp-create-trial-account.html) 
 
 ## Download and Installation:
 
-Download these files directly from GitHub as a [ZIP file](https://github.com/SAP-samples/service-ticket-intelligence-postman-collection-sample/archive/master.zip), or by using the git command line tool:
+Download these files directly from GitHub as a [ZIP file](https://github.com/SAP-samples/service-ticket-intelligence-reverse-proxy-application/archive/master.zip), or by using the git command line tool:
 
-    git clone https://github.com/SAP/service-ticket-intelligence-postman-collection-sample
+    git clone https://github.com/SAP-samples/service-ticket-intelligence-reverse-proxy-application
   
 ## Configuration
 
-For configuration instructions go to: https://help.sap.com/stint -> Development -> User Guide -> Set Up Postman Collection and Environment and Call the API from Postman sections.
+For configuration instructions go to: https://help.sap.com/stint -> Integration -> CRM On Premise Integration Guide -> Set Up Cloud Connector Front End.
 
 ## How to obtain support:
 
@@ -27,5 +26,4 @@ If you face any issue with the JSON files, please log a bug here in GitHub.
 
 ## License
 
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
-This file is licensed under the SAP Sample Code License except as noted otherwise in the [LICENSE file](/LICENSE).
+Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE file](/Apache2.0).
