@@ -1,10 +1,10 @@
-# Service Ticket Intelligence - Postman Collection Sample Files
+# Service Ticket Intelligence - Cloud Connector Front End Repository Sample Files
 
 ## Description
 
-This repository contains the JSON sample code files used in the Service Ticket Intelligence User Guide - Import Postman Collection and Environment section.  
+This repository contains the sample code files used in the CRM On Premise Integration Guide - Set Up Cloud Connector Front End section.
 
-This sample uses the commercial SAP product Service Ticket Intelligence. For details on using this sample, please go to: https://help.sap.com/stint -> Development -> User Guide -> Set Up Postman Collection and Environment and Call the API from Postman sections.
+This sample uses the commercial SAP product Service Ticket Intelligence. For details on using this sample, please go to: https://help.sap.com/stint -> Integration -> CRM On Premise Integration Guide -> Set Up Cloud Connector Front End
 
 ## Requirements
 
