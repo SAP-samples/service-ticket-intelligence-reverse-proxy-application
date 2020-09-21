@@ -1,0 +1,8 @@
+# Sample Configuration for Auth-CF
+
+app-name: ccf
+host-virtual: hello:80
+connectivity-service-name: connectivity-demo-lite
+onpremise-user: BigAdmin
+onpremise-password: Manager
+

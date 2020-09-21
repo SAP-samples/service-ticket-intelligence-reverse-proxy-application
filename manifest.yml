@@ -1,0 +1,15 @@
+applications:
+- name: ((app-name))
+  path: www
+  random-route: false
+  memory: 32M
+  disk_quota: 8M
+  buildpack: staticfile_buildpack
+  env:
+    FORCE_HTTPS: false
+    CLOUD_CONNECTOR_VIRTUAL_HOST: ((host-virtual))
+    TARGET_AUTH_USER: ((onpremise-user))
+    TARGET_AUTH_PASSWORD: ((onpremise-password))
+  services:
+    - ((connectivity-service-name))
+    - standard-logging
