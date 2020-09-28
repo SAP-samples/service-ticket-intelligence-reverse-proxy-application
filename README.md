@@ -1,6 +1,6 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/service-ticket-intelligence-reverse-proxy-application)](https://api.reuse.software/info/github.com/SAP-samples/service-ticket-intelligence-reverse-proxy-application)
 
-# Service Ticket Intelligence - Cloud Connector Front End Repository Sample Files
+# Service Ticket Intelligence - Cloud Connector Front End Sample Files
 
 ## Description
 
